@@ -1,6 +1,6 @@
 'use strict';
 
-const crypto = require('crypto');
+const crypto = require('react-native-crypto');
 
 
 const NAMESPACE_DNS = uuidFromString('6ba7b810-9dad-11d1-80b4-00c04fd430c8');
